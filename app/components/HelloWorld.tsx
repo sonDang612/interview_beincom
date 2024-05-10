@@ -1,13 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
-import { HelloWorld } from '~/components'
 
-const App = () => {
+const HelloWorld = () => {
   return (
     <View>
-      <HelloWorld />
+      <Text>HelloWorld</Text>
     </View>
   )
 }
 
-export default App;
+export default HelloWorld;
