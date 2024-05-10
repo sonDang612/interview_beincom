@@ -1,6 +1,5 @@
 const screenNames = {
-    HOME: 'HOME'
+  HOME: "HOME",
 };
-
 
 export default screenNames;
